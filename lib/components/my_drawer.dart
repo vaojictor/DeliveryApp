@@ -43,7 +43,7 @@ class _MyDrawerState extends State<MyDrawer> {
 
           // setting list tile
           MyDrawerTile(
-            text: 'S E T T I N G S',
+            text: 'C O N F I G U R A Ç Õ E S',
             icon: Icons.settings_outlined,
             onTap: () {
               Navigator.pop(context);
